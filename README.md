@@ -1,6 +1,6 @@
 
-respirator cyfrowy na bazie arduino do wentylacji od jednego do trzech pacjentow w sposob nie zalezny. System zapewnia plynna 
-regulacje cisnienia i czasu trwania cyklu oddechowego. 
+respirator cyfrowy na bazie arduino do wentylacji od jednego do trzech pacjentow w sposob nie zalezny. System zapewnia plynna regulacje cisnienia i czasu trwania cyklu oddechowego.
+
          Respirateur numérique utilisant un compresseur          
            éventuellement une bouteille d'air comprimé            
          Pouvant assuré la respiration de une ŕ trois poste      
