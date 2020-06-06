@@ -12,15 +12,15 @@ regulacje cisnienia i czasu trwania cyklu oddechowego.
     Le programme présenté permet l'utilisation de n'importe      
     quel compresseur ou cylindre avec de l'air comprimé           
     comme respirateur.                                            
-                  Le systčme permet:                              
+                  Le systéme permet:                              
                                                                   
    1. Régulations de la durée d'inspiration et d'expiration       
-                 de 0,1 ŕ 30 seconde                              
+                 de 0,1 a 30 seconde                              
                                                                   
-   2. régulation de la pression d'air inhalé ŕ partir             
-                 de 0,1 jusqu'ŕ 250 hPa.                          
+   2. régulation de la pression d'air inhalé a partir             
+                 de 0,1 jusqu'a 250 hPa.                          
                                                                   
-   3. Réglages de la limite de pression supérieur ŕ laquelle      
+   3. Réglages de la limite de pression supérieur a laquelle      
       une alarme sonore et visuel est activé                      
                                                                   
    4. Réglage indépendant de chaque ligne séparément dans la   
