@@ -4,7 +4,7 @@ regulacje cisnienia i czasu trwania cyklu oddechowego.
          Respirateur numérique utilisant un compresseur          
            éventuellement une bouteille d'air comprimé            
          Pouvant assuré la respiration de une ŕ trois poste      
-                pour aération avec un compresseur           
+                          
                    Auteur : Andrzej kmita           
                Coopération: Krzysztof Klopotowski                 
                             Damian Karpiuk                        
